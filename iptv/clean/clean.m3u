@@ -65,6 +65,10 @@ rtp://@239.35.10.25:10000
 rtp://@239.35.10.63:10000
 #EXTINF:-1 tvg-name="n-tv" tvg-id="ntv.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/ntv.png",n-tv
 rtp://@239.35.20.47:10000
+#EXTINF:-1 tvg-name="N24" tvg-id="n24.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/n24.png",N24
+rtp://@239.35.20.46:10000
+#EXTINF:-1 tvg-name="N24 HD" tvg-id="n24.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/n24hd.png",N24 HD
+rtp://@239.35.20.17:10000
 #EXTINF:-1 tvg-name="Phoenix" tvg-id="phoenix.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/phoenix.png",Phoenix
 rtp://@239.35.10.22:10000
 #EXTINF:-1 tvg-name="Phoenix HD" tvg-id="phoenix.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/phoenixhd.png",Phoenix HD

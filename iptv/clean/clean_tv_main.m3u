@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Das Erste" tvg-id="ARD.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/daserste.png",Das Erste
+rtp://@239.35.10.4:10000
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/daserstehd.png",Das Erste HD
+rtp://@239.35.10.1:10000
+#EXTINF:-1 tvg-name="ZDF" tvg-id="ZDF.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/zdf.png",ZDF
+rtp://@239.35.10.5:10000
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/zdfhd.png",ZDF HD
+rtp://@239.35.10.2:10000
+#EXTINF:-1 tvg-name="RTL" tvg-id="RTL.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/rtl.png",RTL
+rtp://@239.35.20.10:10000
+#EXTINF:-1 tvg-name="SAT.1" tvg-id="Sat1.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/sat1.png",SAT.1
+rtp://@239.35.20.20:10000
+#EXTINF:-1 tvg-name="ProSieben" tvg-id="Pro7.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/prosieben.png",ProSieben
+rtp://@239.35.20.21:10000
+#EXTINF:-1 tvg-name="RTL II" tvg-id="RTL2.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/rtl2.png",RTL II
+rtp://@239.35.20.22:10000
+#EXTINF:-1 tvg-name="kabel eins" tvg-id="Kabel.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/kabeleins.png",kabel eins
+rtp://@239.35.20.38:10000
+#EXTINF:-1 tvg-name="VOX" tvg-id="Vox.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/vox.png",VOX
+rtp://@239.35.20.11:10000
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/3sat.png",3sat
+rtp://@239.35.10.6:10000
+#EXTINF:-1 tvg-name="3sat HD" tvg-id="3sat.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/3sathd.png",3sat HD
+rtp://@239.35.10.47:10000
+#EXTINF:-1 tvg-name="ARTE" tvg-id="ARTE.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/arte.png",ARTE
+rtp://@239.35.10.20:10000
+#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/artehd.png",ARTE HD
+rtp://@239.35.10.3:10000
+#EXTINF:-1 tvg-name="sixx" tvg-id="Sixx.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/sixx.png",sixx
+rtp://@239.35.20.9:10000
+#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/ardalpha.png",ARD-alpha
+rtp://@239.35.10.24:10000
+#EXTINF:-1 tvg-name="one" tvg-id="One.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/one.png",one
+rtp://@239.35.10.21:10000
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/onehd.png",one HD
+rtp://@239.35.10.58:10000
+#EXTINF:-1 tvg-name="ZDFneo" tvg-id="ZDFneo.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/zdfneo.png",ZDFneo
+rtp://@239.35.10.27:10000
+#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/zdfneohd.png",ZDFneo HD
+rtp://@239.35.10.55:10000
+#EXTINF:-1 tvg-name="ZDFinfo" tvg-id="ZDFinfo.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/zdfinfo.png",ZDFinfo
+rtp://@239.35.10.28:10000
+#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/zdfinfohd.png",ZDFinfo HD
+rtp://@239.35.10.56:10000
+#EXTINF:-1 tvg-name="RTLNITRO" tvg-id="RTLNitro.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/rtlnitro.png",RTLNITRO
+rtp://@239.35.20.59:10000
+#EXTINF:-1 tvg-name="RTLplus" tvg-id="RTLPlus.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/rtlplus.png",RTLplus
+rtp://@239.35.20.57:10000
+#EXTINF:-1 tvg-name="SAT.1 Gold" tvg-id="Sat1Gold.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/sat1gold.png",SAT.1 Gold
+rtp://@239.35.20.24:10000
+#EXTINF:-1 tvg-name="ProSieben MAXX" tvg-id="ProSiebenMaxx.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/prosiebenmaxx.png",ProSieben MAXX
+rtp://@239.35.20.33:10000
+#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/kika.png",KiKA
+rtp://@239.35.10.19:10000
+#EXTINF:-1 tvg-name="KiKA HD" tvg-id="Kika.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/kikahd.png",KiKA HD
+rtp://@239.35.10.11:10000
+#EXTINF:-1 tvg-name="Super RTL" tvg-id="SuperRTL.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/superrtl.png",Super RTL
+rtp://@239.35.20.39:10000
+#EXTINF:-1 tvg-name="kabel eins Doku" tvg-id="KabelEinsDoku.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/kabeleinsdoku.png",kabel eins Doku
+rtp://@239.35.20.67:10000
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tagesschau24.png",tagesschau24
+rtp://@239.35.10.25:10000
+#EXTINF:-1 tvg-name="tagesschau24 HD" tvg-id="tagesschau24.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tagesschau24hd.png",tagesschau24 HD
+rtp://@239.35.10.63:10000
+#EXTINF:-1 tvg-name="n-tv" tvg-id="ntv.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/ntv.png",n-tv
+rtp://@239.35.20.47:10000
+#EXTINF:-1 tvg-name="N24" tvg-id="n24.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/n24.png",N24
+rtp://@239.35.20.46:10000
+#EXTINF:-1 tvg-name="N24 HD" tvg-id="n24.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/n24hd.png",N24 HD
+rtp://@239.35.20.17:10000
+#EXTINF:-1 tvg-name="Phoenix" tvg-id="phoenix.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/phoenix.png",Phoenix
+rtp://@239.35.10.22:10000
+#EXTINF:-1 tvg-name="Phoenix HD" tvg-id="phoenix.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/phoenixhd.png",Phoenix HD
+rtp://@239.35.10.48:10000

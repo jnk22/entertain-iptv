@@ -65,9 +65,9 @@ rtp://@239.35.10.14:10000
 rtp://@239.35.10.34:10000
 #EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/rbbhd.png",rbb Berlin HD
 rtp://@239.35.10.62:10000
-#EXTINF:-1 tvg-name="SR" tvg-id="SRFernsehen.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/sr.png",SR
+#EXTINF:-1 tvg-name="SR Fernsehen" tvg-id="SRFernsehen.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/sr.png",SR Fernsehen
 rtp://@239.35.10.15:10000
-#EXTINF:-1 tvg-name="SR HD" tvg-id="SRFernsehen.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/srhd.png",SR HD
+#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/srhd.png",SR Fernsehen HD
 rtp://@239.35.10.64:10000
 #EXTINF:-1 tvg-name="Radio Bremen TV" tvg-id="RadioBremen.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/radiobrementv.png",Radio Bremen TV
 rtp://@239.35.10.12:10000

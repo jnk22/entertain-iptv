@@ -43,7 +43,7 @@ rtp://@239.35.10.55:10000
 rtp://@239.35.10.28:10000
 #EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/zdfinfohd.png",ZDFinfo HD
 rtp://@239.35.10.56:10000
-#EXTINF:-1 tvg-name="RTLNITRO" tvg-id="RTLNitro.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/rtlnitro.png",RTLNITRO
+#EXTINF:-1 tvg-name="NITRO" tvg-id="RTLNitro.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/rtlnitro.png",NITRO
 rtp://@239.35.20.59:10000
 #EXTINF:-1 tvg-name="RTLplus" tvg-id="RTLPlus.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/rtlplus.png",RTLplus
 rtp://@239.35.20.57:10000

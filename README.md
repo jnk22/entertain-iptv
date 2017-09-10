@@ -1,7 +1,9 @@
-# Kodinerds IPTV
+# Entertain IPTV
 ## Beschreibung
 Die folgenden Listen enthalten alle gesammelten Streams der TV-Sender des Angebots "Entertain TV" der Telekom.
 Unterteilt sind diese in Inhalt.
+<br>
+Dieses Angebot stellt ein Parallelangebot zu [Kodinerds IPTV](https://github.com/jnk22/Kodinerds-iptv) dar.
 <br><br>
 ## Anleitung
 Eine ausführliche Anleitung zur optimalen Benutzung mit Kodi und allen weiteren unterstützen Clients gibt es auf Kodinerds.net.

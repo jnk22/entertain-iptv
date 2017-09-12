@@ -25,10 +25,10 @@ Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Oberliste.
 
 [typ]_tv.m3u - beinhaltet nur TV-Sender
 
-[typ]_tv_main.m3u - beinhaltet nur deutsche Hauptsender
-[typ]_tv_mainregional.m3u - beinhaltet nur deutsche Hauptsender
-[typ]_tv_regional.m3u - beinhaltet nur deutsche Regionalsender
-[typ]_tv_local.m3u - beinhaltet nur deutsche Lokalsender
+[typ]_tv_main.m3u - nur deutsche Hauptsender
+[typ]_tv_mainregional.m3u - nur deutsche Regionalsender von RTL und SAT.1
+[typ]_tv_regional.m3u - nur deutsche Regionalsender
+[typ]_tv_local.m3u - nur deutsche Lokalsender
 ```
 <br><br>
 ## Listen (Inhalt)

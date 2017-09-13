@@ -1,68 +1,66 @@
 # Entertain IPTV
-## Beschreibung
-Die folgenden Listen enthalten alle gesammelten Streams der TV-Sender des Angebots "Entertain TV" der Telekom.
-Unterteilt sind diese in Inhalt.
-<br>
-Dieses Angebot stellt ein Parallelangebot zu [Kodinerds IPTV](https://github.com/jnk22/Kodinerds-iptv) dar.
+## Einleitung
+Entertain IPTV ist eine Sammlung von Streamlinks, die ausschließlich für Telekom-Kunden mit gebuchter Option EntertainTV zugänglich sind.
 <br><br>
-## Anleitung
-Eine ausführliche Anleitung zur optimalen Benutzung mit Kodi und allen weiteren unterstützen Clients gibt es auf Kodinerds.net.
-<br>
-https://www.kodinerds.net/index.php/Thread/56713/
+Eine ausführliche Anleitung und Beschreibung findet sich auf Kodinerds.net: [Entertain IPTV auf Kodinerds.net](https://missing/)
 <br><br>
-## Zusatzangebot: Kodinerds IPTV
-Eine Liste für weitere frei empfanbaren TV- und Radiosender (IPTV) ist ebenfalls verfügbar.
-Dieses Angebot beinhaltet alle derzeit gesammelten frei empfangbaren TV- und Radiosender.
+Dieses Angebot stellt ein Parallelangebot zu [Kodinerds IPTV](https://github.com/jnk22/kodinerds-iptv) mit frei empfangbaren Streams für TV- und Radiosendern dar.
 <br><br>
-Das Angebot sowie weitere Infos dazu hier: https://github.com/jnk22/kodinerds-iptv
-<br><br>
-## Erklärung
-Die Listen sind unterteilt für den jeweiligen Gebrauch/Client. Die Listen "kodi", "clean" und "pipe" sind inhaltlich identisch. 
-<br><br>
-Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Oberliste.
-```
-[typ].m3u - beinhaltet alle TV- und Radiosender
+## Beschreibung / Erklärung
+Die Listen sind unterteilt in verschiedene Typen, hier gibt es folgende Typen:
 
-[typ]_tv.m3u - beinhaltet nur TV-Sender
+* kodi - Für den optimalen Empfang in Kodi, mit Kategorien für TV-Kanäle. Zu benutzen mit beiden Versionen des PVR IPTV Simple Client.
+* clean - Basisliste mit Kategorisierung nach Land. Zum Beispiel für den VLC media player optimal.
+* pipe - Liste mit Streams für das PVR-Backend Tvheadend. Streams setzen ffmpeg voraus, installiert unter /usr/bin/ffmpeg.
 
-[typ]_tv_main.m3u - nur deutsche Hauptsender
-[typ]_tv_mainregional.m3u - nur deutsche Regionalsender von RTL und SAT.1
-[typ]_tv_regional.m3u - nur deutsche Regionalsender
-[typ]_tv_local.m3u - nur deutsche Lokalsender
-```
+Hinweis: Die Listen kodi, clean und pipe sind inhaltlich identisch.
 <br><br>
-## Listen (Inhalt)
-### iptv_kodi (PVR IPTV Simple Client mit Inhaltskategorien - Kodi)
-[https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/...](https://github.com/jnk22/kodinerds-iptv/tree/structure/iptv/kodi)
-* [kodi.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/kodi.m3u)
-  * [kodi_tv.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/kodi_tv.m3u)
-    * [kodi_tv_main.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/kodi_tv_main.m3u)
-    * [kodi_tv_mainregional.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/kodi_tv_mainregional.m3u)
-    * [kodi_tv_regional.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/kodi_tv_regional.m3u)
-    * [kodi_tv_local.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/kodi_tv_local.m3u)
+Jede der Listen ist unterteilt in eine Struktur, die dem Benutzer ein individuelles Angebot ermöglichen soll. Dabei gilt folgende Struktur:
+
+- [typ] - beinhaltet alle TV- und Radiosender
+
+- - [typ]_tv - beinhaltet nur TV-Sender
+
+- - - [typ]_tv_main - nur deutsche Hauptsender
+- - - [typ]_tv_mainregional - nur deutsche Regionalsender von RTL und SAT.1
+- - - [typ]_tv_regional - nur deutsche Regionalsender
+- - - [typ]_tv_local - nur deutsche Lokalsender
+
+Hinweis: Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Oberliste.
 <br><br>
-### iptv_clean (Basisliste - VLC media player)
-[https://raw.githubusercontent.com/jnk22/entertain-iptv/master/iptv/clean/...](https://github.com/jnk22/entertain-iptv/tree/structure/iptv/clean)
-* [clean.m3u](https://raw.githubusercontent.com/jnk22/entertain-iptv/master/iptv/clean/clean.m3u)
-  * [clean_tv.m3u](https://raw.githubusercontent.com/jnk22/entertain-iptv/master/iptv/clean/clean_tv.m3u)
-    * [clean_tv_main.m3u](https://raw.githubusercontent.com/jnk22/entertain-iptv/master/iptv/clean/clean_tv_main.m3u)
-    * [clean_tv_mainregional.m3u](https://raw.githubusercontent.com/jnk22/entertain-iptv/master/iptv/clean/clean_tv_mainregional.m3u)
-    * [clean_tv_regional.m3u](https://raw.githubusercontent.com/jnk22/entertain-iptv/master/iptv/clean/clean_tv_regional.m3u)
-    * [clean_tv_local.m3u](https://raw.githubusercontent.com/jnk22/entertain-iptv/master/iptv/clean/clean_tv_local.m3u)
+## Links zu den Listen
+### kodi - für PVR IPTV Simple Client mit Inhaltskategorien (Kodi)
+* http://bit.ly/et-kodi
+
+  * http://bit.ly/et-kodi-tv
+
+    * http://bit.ly/et-kodi-tv-main
+    * http://bit.ly/et-kodi-tv-mainregional
+    * http://bit.ly/et-kodi-tv-regional
+    * http://bit.ly/et-kodi-tv-local
 <br><br>
-### iptv_pipe (Integration in TV-Backend - Tvheadend)
-[https://raw.githubusercontent.com/jnk22/entertain-iptv/master/iptv/pipe/...](https://github.com/jnk22/entertain-iptv/tree/structure/iptv/pipe)
-* [pipe.m3u](https://raw.githubusercontent.com/jnk22/entertain-iptv/master/iptv/pipe/pipe.m3u)
-  * [pipe_tv.m3u](https://raw.githubusercontent.com/jnk22/entertain-iptv/master/iptv/pipe/pipe_tv.m3u)
-    * [pipe_tv_main.m3u](https://raw.githubusercontent.com/jnk22/entertain-iptv/master/iptv/pipe/pipe_tv_main.m3u)
-    * [pipe_tv_mainregional.m3u](https://raw.githubusercontent.com/jnk22/entertain-iptv/master/iptv/pipe/pipe_tv_mainregional.m3u)
-    * [pipe_tv_regional.m3u](https://raw.githubusercontent.com/jnk22/entertain-iptv/master/iptv/pipe/pipe_tv_regional.m3u)
-    * [pipe_tv_local.m3u](https://raw.githubusercontent.com/jnk22/entertain-iptv/master/iptv/pipe/pipe_tv_local.m3u)
+### clean - Basisliste mit IPTV-Kanälen (VLC media player)
+* http://bit.ly/et-clean
+
+  * http://bit.ly/et-clean-tv
+
+    * http://bit.ly/et-clean-tv-main
+    * http://bit.ly/et-clean-tv-mainregional
+    * http://bit.ly/et-clean-tv-regional
+    * http://bit.ly/et-clean-tv-local
 <br><br>
-## Kurzlinks
-Kurzlinks folgen, sobald verfügbar!
+### pipe - Basisliste mit IPTV-Kanälen (VLC media player)
+* http://bit.ly/et-pipe
+
+  * http://bit.ly/et-pipe-tv
+
+    * http://bit.ly/et-pipe-tv-main
+    * http://bit.ly/et-pipe-tv-mainregional
+    * http://bit.ly/et-pipe-tv-regional
+    * http://bit.ly/et-pipe-tv-local
 <br><br>
-## Links
-* [Thread / Diskussion auf Kodinerds.net](https://www.kodinerds.net/index.php/Thread/56713/)
-* [Aktuelle Bugs / To-Do Liste](https://github.com/jnk22/entertain-iptv/issues)
-* [Zusatzangebot: Kodinerds IPTV](https://github.com/jnk22/kodinerds-iptv)
+## Weiterführende Links
+* [Aktuelle To-Do Liste](https://github.com/jnk22/entertain-iptv/issues)
+* [Entertain IPTV auf Kodinerds.net](https://missing/)
+* [Kodinerds IPTV auf Kodinerds.net](https://www.kodinerds.net/index.php/Thread/56713/)
+* [Kodinerds IPTV auf GitHub](https://github.com/jnk22/kodinerds-iptv)

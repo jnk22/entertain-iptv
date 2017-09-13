@@ -2,7 +2,7 @@
 ## Einleitung
 Entertain IPTV ist eine Sammlung von Streamlinks, die ausschließlich für Telekom-Kunden mit gebuchter Option EntertainTV zugänglich sind.
 <br><br>
-Eine ausführliche Anleitung und Beschreibung findet sich auf Kodinerds.net: [Entertain IPTV auf Kodinerds.net](https://missing/)
+Eine ausführliche Anleitung und Beschreibung findet sich auf Kodinerds.net: [Entertain IPTV auf Kodinerds.net](https://www.kodinerds.net/index.php/Thread/58228/)
 <br><br>
 Dieses Angebot stellt ein Parallelangebot zu [Kodinerds IPTV](https://github.com/jnk22/kodinerds-iptv) mit frei empfangbaren Streams für TV- und Radiosendern dar.
 <br><br>
@@ -62,6 +62,6 @@ Hinweis: Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Ob
 <br><br>
 ## Weiterführende Links
 * [Aktuelle To-Do Liste](https://github.com/jnk22/entertain-iptv/issues)
-* [Entertain IPTV auf Kodinerds.net](https://missing/)
+* [Entertain IPTV auf Kodinerds.net](https://www.kodinerds.net/index.php/Thread/58228/)
 * [Kodinerds IPTV auf Kodinerds.net](https://www.kodinerds.net/index.php/Thread/56713/)
 * [Kodinerds IPTV auf GitHub](https://github.com/jnk22/kodinerds-iptv)

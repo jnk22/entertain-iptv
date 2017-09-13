@@ -16,7 +16,7 @@ Die Listen sind unterteilt in verschiedene Typen, hier gibt es folgende Typen:
 Hinweis: Die Listen kodi, clean und pipe sind inhaltlich identisch.
 <br><br>
 Jede der Listen ist unterteilt in eine Struktur, die dem Benutzer ein individuelles Angebot ermöglichen soll. Dabei gilt folgende Struktur:
-
+```
 - [typ] - beinhaltet alle TV- und Radiosender
 
 - - [typ]_tv - beinhaltet nur TV-Sender
@@ -25,6 +25,7 @@ Jede der Listen ist unterteilt in eine Struktur, die dem Benutzer ein individuel
 - - - [typ]_tv_mainregional - nur deutsche Regionalsender von RTL und SAT.1
 - - - [typ]_tv_regional - nur deutsche Regionalsender
 - - - [typ]_tv_local - nur deutsche Lokalsender
+```
 
 Hinweis: Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Oberliste.
 <br><br>

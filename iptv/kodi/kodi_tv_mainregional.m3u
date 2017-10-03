@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="RTL Nordrhein-Westfalen" tvg-id="RTL.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/rtl.png",RTL Nordrhein-Westfalen
+#EXTINF:-1 tvg-name="RTL Nordrhein-Westfalen" tvg-id="RTL.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rtl.png",RTL Nordrhein-Westfalen
 rtp://@239.35.20.5:10000
-#EXTINF:-1 tvg-name="RTL Bremen / Niedersachsen" tvg-id="RTL.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/rtl.png",RTL Bremen / Niedersachsen
+#EXTINF:-1 tvg-name="RTL Bremen / Niedersachsen" tvg-id="RTL.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rtl.png",RTL Bremen / Niedersachsen
 rtp://@239.35.20.6:10000
-#EXTINF:-1 tvg-name="RTL Hamburg / Schleswig-Holstein" tvg-id="RTL.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/rtl.png",RTL Hamburg / Schleswig-Holstein
+#EXTINF:-1 tvg-name="RTL Hamburg / Schleswig-Holstein" tvg-id="RTL.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rtl.png",RTL Hamburg / Schleswig-Holstein
 rtp://@239.35.20.63:10000
-#EXTINF:-1 tvg-name="RTL Hessen" tvg-id="RTL.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/rtl.png",RTL Hessen
+#EXTINF:-1 tvg-name="RTL Hessen" tvg-id="RTL.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rtl.png",RTL Hessen
 rtp://@239.35.20.64:10000
-#EXTINF:-1 tvg-name="SAT.1 Bayern" tvg-id="Sat1.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/sat1.png",SAT.1 Bayern
+#EXTINF:-1 tvg-name="SAT.1 Bayern" tvg-id="Sat1.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/sat1.png",SAT.1 Bayern
 rtp://@239.35.20.8:10000
-#EXTINF:-1 tvg-name="SAT.1 Hamburg / Schleswig-Holstein" tvg-id="Sat1.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/sat1.png",SAT.1 Hamburg / Schleswig-Holstein
+#EXTINF:-1 tvg-name="SAT.1 Hamburg / Schleswig-Holstein" tvg-id="Sat1.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/sat1.png",SAT.1 Hamburg / Schleswig-Holstein
 rtp://@239.35.20.12:10000
-#EXTINF:-1 tvg-name="SAT.1 Niedersachsen / Bremen" tvg-id="Sat1.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/sat1.png",SAT.1 Niedersachsen / Bremen
+#EXTINF:-1 tvg-name="SAT.1 Niedersachsen / Bremen" tvg-id="Sat1.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/sat1.png",SAT.1 Niedersachsen / Bremen
 rtp://@239.35.20.13:10000
-#EXTINF:-1 tvg-name="SAT.1 Nordrhein-Westfalen" tvg-id="Sat1.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/sat1.png",SAT.1 Nordrhein-Westfalen
+#EXTINF:-1 tvg-name="SAT.1 Nordrhein-Westfalen" tvg-id="Sat1.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/sat1.png",SAT.1 Nordrhein-Westfalen
 rtp://@239.35.20.14:10000
-#EXTINF:-1 tvg-name="SAT.1 Rheinland-Pfalz / Hessen" tvg-id="Sat1.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/sat1.png",SAT.1 Rheinland-Pfalz / Hessen
+#EXTINF:-1 tvg-name="SAT.1 Rheinland-Pfalz / Hessen" tvg-id="Sat1.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/sat1.png",SAT.1 Rheinland-Pfalz / Hessen
 rtp://@239.35.20.15:10000

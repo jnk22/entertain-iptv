@@ -1,35 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="a.tv" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/atv.png",a.tv
+#EXTINF:-1 tvg-name="a.tv" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/atv.png",a.tv
 rtp://@239.35.50.39:10000
-#EXTINF:-1 tvg-name="allgäu.tv" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/allgaeutv.png",allgäu.tv
+#EXTINF:-1 tvg-name="allgäu.tv" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/allgaeutv.png",allgäu.tv
 rtp://@239.35.50.53:10000
-#EXTINF:-1 tvg-name="Donau TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/donautv.png",Donau TV
+#EXTINF:-1 tvg-name="Donau TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/donautv.png",Donau TV
 rtp://@239.35.50.23:10000
-#EXTINF:-1 tvg-name="Franken Fernsehen" tvg-id="FrankenTV.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/frankenfernsehen.png",Franken Fernsehen
+#EXTINF:-1 tvg-name="Franken Fernsehen" tvg-id="FrankenTV.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/frankenfernsehen.png",Franken Fernsehen
 rtp://@239.35.50.43:10000
-#EXTINF:-1 tvg-name="intv" tvg-id="intv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/intv.png",intv
+#EXTINF:-1 tvg-name="intv" tvg-id="intv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/intv.png",intv
 rtp://@239.35.50.1:10000
-#EXTINF:-1 tvg-name="Isar TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/isartv.png",Isar TV
+#EXTINF:-1 tvg-name="Isar TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/isartv.png",Isar TV
 rtp://@239.35.50.42:10000
-#EXTINF:-1 tvg-name="main.tv" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/maintv.png",main.tv
+#EXTINF:-1 tvg-name="main.tv" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/maintv.png",main.tv
 rtp://@239.35.50.49:10000
-#EXTINF:-1 tvg-name="münchen.tv" tvg-id="MunchenTV.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/muenchentv.png",münchen.tv
+#EXTINF:-1 tvg-name="münchen.tv" tvg-id="MunchenTV.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/muenchentv.png",münchen.tv
 rtp://@239.35.50.6:10000
-#EXTINF:-1 tvg-name="Oberpfalz TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/oberpfalztv.png",Oberpfalz TV
+#EXTINF:-1 tvg-name="Oberpfalz TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/oberpfalztv.png",Oberpfalz TV
 rtp://@239.35.50.50:10000
-#EXTINF:-1 tvg-name="RFO" tvg-id="Oberbayern.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/rfo.png",RFO
+#EXTINF:-1 tvg-name="RFO" tvg-id="Oberbayern.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rfo.png",RFO
 rtp://@239.35.50.51:10000
-#EXTINF:-1 tvg-name="TRP1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/trp1.png",TRP1
+#EXTINF:-1 tvg-name="TRP1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/trp1.png",TRP1
 rtp://@239.35.50.52:10000
-#EXTINF:-1 tvg-name="TV Oberfranken" tvg-id="tvo.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tvoberfranken.png",TV Oberfranken
+#EXTINF:-1 tvg-name="TV Oberfranken" tvg-id="tvo.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/tvoberfranken.png",TV Oberfranken
 rtp://@239.35.50.54:10000
-#EXTINF:-1 tvg-name="TV touring Würzburg" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tvtouring.png",TV touring Würzburg
+#EXTINF:-1 tvg-name="TV touring Würzburg" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/tvtouring.png",TV touring Würzburg
 rtp://@239.35.50.56:10000
-#EXTINF:-1 tvg-name="TV touring Schweinfurt" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tvtouring.png",TV touring Schweinfurt
+#EXTINF:-1 tvg-name="TV touring Schweinfurt" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/tvtouring.png",TV touring Schweinfurt
 rtp://@239.35.50.55:10000
-#EXTINF:-1 tvg-name="TVA Ostbayern" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tvaostbayern.png",TVA Ostbayern
+#EXTINF:-1 tvg-name="TVA Ostbayern" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/tvaostbayern.png",TVA Ostbayern
 rtp://@239.35.50.57:10000
-#EXTINF:-1 tvg-name="center.tv Düsseldorf" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/centertv.png",center.tv Düsseldorf
+#EXTINF:-1 tvg-name="center.tv Düsseldorf" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/centertv.png",center.tv Düsseldorf
 rtp://@239.35.50.7:10000
-#EXTINF:-1 tvg-name="DRF1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/drf1.png",DRF1
+#EXTINF:-1 tvg-name="DRF1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/drf1.png",DRF1
+rtp://@239.35.50.15:10000
+#EXTINF:-1 tvg-name="Alex Berlin" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/alexberlin.png",Alex Berlin
+rtp://@239.35.50.7:10000
+#EXTINF:-1 tvg-name="CityVision" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/cityvision.png",CityVision
 rtp://@239.35.50.15:10000

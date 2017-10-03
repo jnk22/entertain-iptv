@@ -1,35 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="a.tv" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/atv.png",a.tv
+#EXTINF:-1 tvg-name="a.tv" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/atv.png",a.tv
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.39:10000 -vcodec copy -acodec copy -metadata service_name=a.tv -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="allgäu.tv" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/allgaeutv.png",allgäu.tv
+#EXTINF:-1 tvg-name="allgäu.tv" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/allgaeutv.png",allgäu.tv
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.53:10000 -vcodec copy -acodec copy -metadata service_name=allgau.tv -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="Donau TV" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/donautv.png",Donau TV
+#EXTINF:-1 tvg-name="Donau TV" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/donautv.png",Donau TV
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.23:10000 -vcodec copy -acodec copy -metadata service_name=Donau\ TV -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="Franken Fernsehen" tvg-id="FrankenTV.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/frankenfernsehen.png",Franken Fernsehen
+#EXTINF:-1 tvg-name="Franken Fernsehen" tvg-id="FrankenTV.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/frankenfernsehen.png",Franken Fernsehen
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.43:10000 -vcodec copy -acodec copy -metadata service_name=Franken\ Fernsehen -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="intv" tvg-id="intv.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/intv.png",intv
+#EXTINF:-1 tvg-name="intv" tvg-id="intv.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/intv.png",intv
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.1:10000 -vcodec copy -acodec copy -metadata service_name=intv -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="Isar TV" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/isartv.png",Isar TV
+#EXTINF:-1 tvg-name="Isar TV" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/isartv.png",Isar TV
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.42:10000 -vcodec copy -acodec copy -metadata service_name=Isar\ TV -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="main.tv" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/maintv.png",main.tv
+#EXTINF:-1 tvg-name="main.tv" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/maintv.png",main.tv
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.49:10000 -vcodec copy -acodec copy -metadata service_name=main.tv -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="münchen.tv" tvg-id="MunchenTV.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/muenchentv.png",münchen.tv
+#EXTINF:-1 tvg-name="münchen.tv" tvg-id="MunchenTV.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/muenchentv.png",münchen.tv
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.6:10000 -vcodec copy -acodec copy -metadata service_name=munchen.tv -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="Oberpfalz TV" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/oberpfalztv.png",Oberpfalz TV
+#EXTINF:-1 tvg-name="Oberpfalz TV" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/oberpfalztv.png",Oberpfalz TV
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.50:10000 -vcodec copy -acodec copy -metadata service_name=Oberpfalz\ TV -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="RFO" tvg-id="Oberbayern.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/rfo.png",RFO
+#EXTINF:-1 tvg-name="RFO" tvg-id="Oberbayern.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rfo.png",RFO
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.51:10000 -vcodec copy -acodec copy -metadata service_name=RFO -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="TRP1" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/trp1.png",TRP1
+#EXTINF:-1 tvg-name="TRP1" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/trp1.png",TRP1
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.52:10000 -vcodec copy -acodec copy -metadata service_name=TRP1 -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="TV Oberfranken" tvg-id="tvo.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tvoberfranken.png",TV Oberfranken
+#EXTINF:-1 tvg-name="TV Oberfranken" tvg-id="tvo.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/tvoberfranken.png",TV Oberfranken
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.54:10000 -vcodec copy -acodec copy -metadata service_name=TV\ Oberfranken -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="TV touring Würzburg" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tvtouring.png",TV touring Würzburg
+#EXTINF:-1 tvg-name="TV touring Würzburg" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/tvtouring.png",TV touring Würzburg
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.56:10000 -vcodec copy -acodec copy -metadata service_name=TV\ touring\ Wurzburg -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="TV touring Schweinfurt" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tvtouring.png",TV touring Schweinfurt
+#EXTINF:-1 tvg-name="TV touring Schweinfurt" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/tvtouring.png",TV touring Schweinfurt
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.55:10000 -vcodec copy -acodec copy -metadata service_name=TV\ touring\ Schweinfurt -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="TVA Ostbayern" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tvaostbayern.png",TVA Ostbayern
+#EXTINF:-1 tvg-name="TVA Ostbayern" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/tvaostbayern.png",TVA Ostbayern
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.57:10000 -vcodec copy -acodec copy -metadata service_name=TVA\ Ostbayern -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="center.tv Düsseldorf" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/centertv.png",center.tv Düsseldorf
+#EXTINF:-1 tvg-name="center.tv Düsseldorf" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/centertv.png",center.tv Düsseldorf
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.7:10000 -vcodec copy -acodec copy -metadata service_name=center.tv\ Dusseldorf -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="DRF1" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/drf1.png",DRF1
+#EXTINF:-1 tvg-name="DRF1" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/drf1.png",DRF1
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.15:10000 -vcodec copy -acodec copy -metadata service_name=DRF1 -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1 tvg-name="Alex Berlin" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/alexberlin.png",Alex Berlin
+pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.7:10000 -vcodec copy -acodec copy -metadata service_name=Alex\ Berlin -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1 tvg-name="CityVision" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/cityvision.png",CityVision
+pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.15:10000 -vcodec copy -acodec copy -metadata service_name=CityVision -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1

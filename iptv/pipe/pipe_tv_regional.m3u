@@ -1,75 +1,75 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="WDR" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/wdr.png",WDR
+#EXTINF:-1 tvg-name="WDR" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/wdr.png",WDR
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.18:10000 -vcodec copy -acodec copy -metadata service_name=WDR -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="WDR Aachen" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/wdr.png",WDR Aachen
+#EXTINF:-1 tvg-name="WDR Aachen" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/wdr.png",WDR Aachen
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.35:10000 -vcodec copy -acodec copy -metadata service_name=WDR\ Aachen -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="WDR Bielefeld" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/wdr.png",WDR Bielefeld
+#EXTINF:-1 tvg-name="WDR Bielefeld" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/wdr.png",WDR Bielefeld
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.36:10000 -vcodec copy -acodec copy -metadata service_name=WDR\ Bielefeld -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="WDR Bonn" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/wdr.png",WDR Bonn
+#EXTINF:-1 tvg-name="WDR Bonn" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/wdr.png",WDR Bonn
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.37:10000 -vcodec copy -acodec copy -metadata service_name=WDR\ Bonn -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="WDR Dortmund" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/wdr.png",WDR Dortmund
+#EXTINF:-1 tvg-name="WDR Dortmund" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/wdr.png",WDR Dortmund
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.38:10000 -vcodec copy -acodec copy -metadata service_name=WDR\ Dortmund -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="WDR Duisburg" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/wdr.png",WDR Duisburg
+#EXTINF:-1 tvg-name="WDR Duisburg" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/wdr.png",WDR Duisburg
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.39:10000 -vcodec copy -acodec copy -metadata service_name=WDR\ Duisburg -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="WDR Düsseldorf" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/wdr.png",WDR Düsseldorf
+#EXTINF:-1 tvg-name="WDR Düsseldorf" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/wdr.png",WDR Düsseldorf
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.40:10000 -vcodec copy -acodec copy -metadata service_name=WDR\ Dusseldorf -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="WDR Essen" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/wdr.png",WDR Essen
+#EXTINF:-1 tvg-name="WDR Essen" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/wdr.png",WDR Essen
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.41:10000 -vcodec copy -acodec copy -metadata service_name=WDR\ Essen -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="WDR Münster" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/wdr.png",WDR Münster
+#EXTINF:-1 tvg-name="WDR Münster" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/wdr.png",WDR Münster
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.42:10000 -vcodec copy -acodec copy -metadata service_name=WDR\ Munster -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="WDR Siegen" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/wdr.png",WDR Siegen
+#EXTINF:-1 tvg-name="WDR Siegen" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/wdr.png",WDR Siegen
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.43:10000 -vcodec copy -acodec copy -metadata service_name=WDR\ Siegen -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="WDR Wuppertal" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/wdr.png",WDR Wuppertal
+#EXTINF:-1 tvg-name="WDR Wuppertal" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/wdr.png",WDR Wuppertal
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.44:10000 -vcodec copy -acodec copy -metadata service_name=WDR\ Wuppertal -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/wdrhd.png",WDR HD
+#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/wdrhd.png",WDR HD
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.53:10000 -vcodec copy -acodec copy -metadata service_name=WDR\ HD -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="SWR Baden-Würrtemberg" tvg-id="SWR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/swr.png",SWR Baden-Würrtemberg
+#EXTINF:-1 tvg-name="SWR Baden-Würrtemberg" tvg-id="SWR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/swr.png",SWR Baden-Würrtemberg
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.16:10000 -vcodec copy -acodec copy -metadata service_name=SWR\ Baden-Wurrtemberg -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz" tvg-id="SWR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/swr.png",SWR Rheinland-Pfalz
+#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz" tvg-id="SWR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/swr.png",SWR Rheinland-Pfalz
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.17:10000 -vcodec copy -acodec copy -metadata service_name=SWR\ Rheinland-Pfalz -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="SWR Baden-Würrtemberg HD" tvg-id="SWR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/swr.png",SWR Baden-Würrtemberg HD
+#EXTINF:-1 tvg-name="SWR Baden-Würrtemberg HD" tvg-id="SWR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/swr.png",SWR Baden-Würrtemberg HD
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.51:10000 -vcodec copy -acodec copy -metadata service_name=SWR\ Baden-Wurrtemberg\ HD -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz HD" tvg-id="SWR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/swr.png",SWR Rheinland-Pfalz HD
+#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz HD" tvg-id="SWR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/swr.png",SWR Rheinland-Pfalz HD
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.52:10000 -vcodec copy -acodec copy -metadata service_name=SWR\ Rheinland-Pfalz\ HD -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="NDR" tvg-id="ndr.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/ndr.png",NDR
+#EXTINF:-1 tvg-name="NDR" tvg-id="ndr.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/ndr.png",NDR
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.10:10000 -vcodec copy -acodec copy -metadata service_name=NDR -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="NDR Hamburg" tvg-id="ndr.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/ndr.png",NDR Hamburg
+#EXTINF:-1 tvg-name="NDR Hamburg" tvg-id="ndr.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/ndr.png",NDR Hamburg
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.31:10000 -vcodec copy -acodec copy -metadata service_name=NDR\ Hamburg -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern" tvg-id="ndr.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/ndr.png",NDR Mecklenburg-Vorpommern
+#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern" tvg-id="ndr.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/ndr.png",NDR Mecklenburg-Vorpommern
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.32:10000 -vcodec copy -acodec copy -metadata service_name=NDR\ Mecklenburg-Vorpommern -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="NDR Schleswig-Holstein" tvg-id="ndr.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/ndr.png",NDR Schleswig-Holstein
+#EXTINF:-1 tvg-name="NDR Schleswig-Holstein" tvg-id="ndr.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/ndr.png",NDR Schleswig-Holstein
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.33:10000 -vcodec copy -acodec copy -metadata service_name=NDR\ Schleswig-Holstein -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="NDR HD" tvg-id="ndr.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/ndrhd.png",NDR HD
+#EXTINF:-1 tvg-name="NDR HD" tvg-id="ndr.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/ndrhd.png",NDR HD
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.50:10000 -vcodec copy -acodec copy -metadata service_name=NDR\ HD -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="BR Fernsehen Nord" tvg-id="BR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/br.png",BR Fernsehen Nord
+#EXTINF:-1 tvg-name="BR Fernsehen Nord" tvg-id="BR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/br.png",BR Fernsehen Nord
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.13:10000 -vcodec copy -acodec copy -metadata service_name=BR\ Fernsehen\ Nord -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="BR Fernsehen Süd" tvg-id="BR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/br.png",BR Fernsehen Süd
+#EXTINF:-1 tvg-name="BR Fernsehen Süd" tvg-id="BR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/br.png",BR Fernsehen Süd
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.7:10000 -vcodec copy -acodec copy -metadata service_name=BR\ Fernsehen\ Sud -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/brhd.png",BR Fernsehen Süd HD
+#EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/brhd.png",BR Fernsehen Süd HD
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.49:10000 -vcodec copy -acodec copy -metadata service_name=BR\ Fernsehen\ Sud\ HD -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="MDR Sachsen" tvg-id="MDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/mdr.png",MDR Sachsen
+#EXTINF:-1 tvg-name="MDR Sachsen" tvg-id="MDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdr.png",MDR Sachsen
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.9:10000 -vcodec copy -acodec copy -metadata service_name=MDR\ Sachsen -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt" tvg-id="MDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/mdr.png",MDR Sachsen-Anhalt
+#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt" tvg-id="MDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdr.png",MDR Sachsen-Anhalt
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.29:10000 -vcodec copy -acodec copy -metadata service_name=MDR\ Sachsen-Anhalt -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="MDR Thüringen" tvg-id="MDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/mdr.png",MDR Thüringen
+#EXTINF:-1 tvg-name="MDR Thüringen" tvg-id="MDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdr.png",MDR Thüringen
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.30:10000 -vcodec copy -acodec copy -metadata service_name=MDR\ Thuringen -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="MDR HD" tvg-id="MDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/mdrhd.png",MDR HD
+#EXTINF:-1 tvg-name="MDR HD" tvg-id="MDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdrhd.png",MDR HD
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.61:10000 -vcodec copy -acodec copy -metadata service_name=MDR\ HD -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/hr.png",hr-fernsehen
+#EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/hr.png",hr-fernsehen
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.8:10000 -vcodec copy -acodec copy -metadata service_name=hr-fernsehen -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="hr-fernsehen HD" tvg-id="HR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/hrhd.png",hr-fernsehen HD
+#EXTINF:-1 tvg-name="hr-fernsehen HD" tvg-id="HR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/hrhd.png",hr-fernsehen HD
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.60:10000 -vcodec copy -acodec copy -metadata service_name=hr-fernsehen\ HD -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="rbb Berlin" tvg-id="rbbBerlin.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/rbb.png",rbb Berlin
+#EXTINF:-1 tvg-name="rbb Berlin" tvg-id="rbbBerlin.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rbb.png",rbb Berlin
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.14:10000 -vcodec copy -acodec copy -metadata service_name=rbb\ Berlin -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="rbb Brandenburg" tvg-id="rbbBrandenburg.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/rbb.png",rbb Brandenburg
+#EXTINF:-1 tvg-name="rbb Brandenburg" tvg-id="rbbBrandenburg.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rbb.png",rbb Brandenburg
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.34:10000 -vcodec copy -acodec copy -metadata service_name=rbb\ Brandenburg -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/rbbhd.png",rbb Berlin HD
+#EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rbbhd.png",rbb Berlin HD
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.62:10000 -vcodec copy -acodec copy -metadata service_name=rbb\ Berlin\ HD -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="SR Fernsehen" tvg-id="SRFernsehen.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/sr.png",SR Fernsehen
+#EXTINF:-1 tvg-name="SR Fernsehen" tvg-id="SRFernsehen.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/sr.png",SR Fernsehen
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.15:10000 -vcodec copy -acodec copy -metadata service_name=SR\ Fernsehen -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/srhd.png",SR Fernsehen HD
+#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.64:10000 -vcodec copy -acodec copy -metadata service_name=SR\ Fernsehen\ HD -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="Radio Bremen TV" tvg-id="RadioBremen.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/radiobrementv.png",Radio Bremen TV
+#EXTINF:-1 tvg-name="Radio Bremen TV" tvg-id="RadioBremen.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/radiobrementv.png",Radio Bremen TV
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.12:10000 -vcodec copy -acodec copy -metadata service_name=Radio\ Bremen\ TV -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="Deutsche Welle" tvg-id="DeutscheWelleDE.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/deutschewelle.png",Deutsche Welle
+#EXTINF:-1 tvg-name="Deutsche Welle" tvg-id="DeutscheWelleDE.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.20.44:10000 -vcodec copy -acodec copy -metadata service_name=Deutsche\ Welle -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1

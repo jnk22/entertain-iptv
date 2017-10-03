@@ -33,3 +33,7 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.57:10000 -vcodec copy
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.7:10000 -vcodec copy -acodec copy -metadata service_name=center.tv\ Dusseldorf -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="DRF1" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/drf1.png",DRF1
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.15:10000 -vcodec copy -acodec copy -metadata service_name=DRF1 -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1 tvg-name="Alex Berlin" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/alexberlin.png",Alex Berlin
+pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.7:10000 -vcodec copy -acodec copy -metadata service_name=Alex\ Berlin -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1 tvg-name="CityVision" tvg-id="" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/cityvision.png",CityVision
+pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.50.15:10000 -vcodec copy -acodec copy -metadata service_name=CityVision -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1

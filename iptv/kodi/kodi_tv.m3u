@@ -199,3 +199,8 @@ rtp://@239.35.50.57:10000
 rtp://@239.35.50.7:10000
 #EXTINF:-1 tvg-name="DRF1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/drf1.png",DRF1
 rtp://@239.35.50.15:10000
+#EXTINF:-1 tvg-name="Alex Berlin" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/alexberlin.png",Alex Berlin
+rtp://@239.35.50.7:10000
+#EXTINF:-1 tvg-name="CityVision" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/cityvision.png",CityVision
+rtp://@239.35.50.15:10000
+

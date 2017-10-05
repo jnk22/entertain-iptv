@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Das Erste" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/daserste.png",Das Erste
-rtp://@239.35.10.4:10000
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 rtp://@239.35.10.1:10000
-#EXTINF:-1 tvg-name="ZDF" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/zdf.png",ZDF
-rtp://@239.35.10.5:10000
+#EXTINF:-1 tvg-name="Das Erste" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/daserste.png",Das Erste
+rtp://@239.35.10.4:10000
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/zdfhd.png",ZDF HD
 rtp://@239.35.10.2:10000
+#EXTINF:-1 tvg-name="ZDF" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/zdf.png",ZDF
+rtp://@239.35.10.5:10000
 #EXTINF:-1 tvg-name="RTL" tvg-id="RTL.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rtl.png",RTL
 rtp://@239.35.20.10:10000
 #EXTINF:-1 tvg-name="SAT.1" tvg-id="Sat1.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/sat1.png",SAT.1
@@ -19,30 +19,30 @@ rtp://@239.35.20.22:10000
 rtp://@239.35.20.38:10000
 #EXTINF:-1 tvg-name="VOX" tvg-id="Vox.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/vox.png",VOX
 rtp://@239.35.20.11:10000
-#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/3sat.png",3sat
-rtp://@239.35.10.6:10000
 #EXTINF:-1 tvg-name="3sat HD" tvg-id="3sat.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/3sathd.png",3sat HD
 rtp://@239.35.10.47:10000
-#EXTINF:-1 tvg-name="ARTE" tvg-id="ARTE.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/arte.png",ARTE
-rtp://@239.35.10.20:10000
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/3sat.png",3sat
+rtp://@239.35.10.6:10000
 #EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/artehd.png",ARTE HD
 rtp://@239.35.10.3:10000
+#EXTINF:-1 tvg-name="ARTE" tvg-id="ARTE.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/arte.png",ARTE
+rtp://@239.35.10.20:10000
 #EXTINF:-1 tvg-name="sixx" tvg-id="Sixx.de" group-title="Spartenprogramm;Filme / Serien" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/sixx.png",sixx
 rtp://@239.35.20.9:10000
 #EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Spartenprogramm;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/ardalpha.png",ARD-alpha
 rtp://@239.35.10.24:10000
-#EXTINF:-1 tvg-name="one" tvg-id="One.de" group-title="Spartenprogramm;Filme / Serien" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/one.png",one
-rtp://@239.35.10.21:10000
 #EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Spartenprogramm;Filme / Serien" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/onehd.png",one HD
 rtp://@239.35.10.58:10000
-#EXTINF:-1 tvg-name="ZDFneo" tvg-id="ZDFneo.de" group-title="Spartenprogramm;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/zdfneo.png",ZDFneo
-rtp://@239.35.10.27:10000
+#EXTINF:-1 tvg-name="one" tvg-id="One.de" group-title="Spartenprogramm;Filme / Serien" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/one.png",one
+rtp://@239.35.10.21:10000
 #EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="Spartenprogramm;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/zdfneohd.png",ZDFneo HD
 rtp://@239.35.10.55:10000
-#EXTINF:-1 tvg-name="ZDFinfo" tvg-id="ZDFinfo.de" group-title="Spartenprogramm;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/zdfinfo.png",ZDFinfo
-rtp://@239.35.10.28:10000
+#EXTINF:-1 tvg-name="ZDFneo" tvg-id="ZDFneo.de" group-title="Spartenprogramm;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/zdfneo.png",ZDFneo
+rtp://@239.35.10.27:10000
 #EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="Spartenprogramm;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
 rtp://@239.35.10.56:10000
+#EXTINF:-1 tvg-name="ZDFinfo" tvg-id="ZDFinfo.de" group-title="Spartenprogramm;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/zdfinfo.png",ZDFinfo
+rtp://@239.35.10.28:10000
 #EXTINF:-1 tvg-name="NITRO" tvg-id="RTLNitro.de" group-title="Spartenprogramm;Filme / Serien" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/nitro.png",NITRO
 rtp://@239.35.20.59:10000
 #EXTINF:-1 tvg-name="RTLplus" tvg-id="RTLPlus.de" group-title="Spartenprogramm;Filme / Serien" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rtlplus.png",RTLplus
@@ -51,36 +51,36 @@ rtp://@239.35.20.57:10000
 rtp://@239.35.20.24:10000
 #EXTINF:-1 tvg-name="ProSieben MAXX" tvg-id="ProSiebenMaxx.de" group-title="Spartenprogramm;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/prosiebenmaxx.png",ProSieben MAXX
 rtp://@239.35.20.33:10000
-#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/kika.png",KiKA
-rtp://@239.35.10.19:10000
 #EXTINF:-1 tvg-name="KiKA HD" tvg-id="Kika.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/kikahd.png",KiKA HD
 rtp://@239.35.10.11:10000
+#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/kika.png",KiKA
+rtp://@239.35.10.19:10000
 #EXTINF:-1 tvg-name="Super RTL" tvg-id="SuperRTL.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/superrtl.png",Super RTL
 rtp://@239.35.20.39:10000
 #EXTINF:-1 tvg-name="kabel eins Doku" tvg-id="KabelEinsDoku.de" group-title="Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/kabeleinsdoku.png",kabel eins Doku
 rtp://@239.35.20.67:10000
-#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/tagesschau24.png",tagesschau24
-rtp://@239.35.10.25:10000
 #EXTINF:-1 tvg-name="tagesschau24 HD" tvg-id="tagesschau24.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/tagesschau24hd.png",tagesschau24 HD
 rtp://@239.35.10.63:10000
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/tagesschau24.png",tagesschau24
+rtp://@239.35.10.25:10000
 #EXTINF:-1 tvg-name="n-tv" tvg-id="ntv.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/ntv.png",n-tv
 rtp://@239.35.20.47:10000
-#EXTINF:-1 tvg-name="N24" tvg-id="n24.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/n24.png",N24
-rtp://@239.35.20.46:10000
 #EXTINF:-1 tvg-name="N24 HD" tvg-id="n24.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/n24hd.png",N24 HD
 rtp://@239.35.20.17:10000
-#EXTINF:-1 tvg-name="phoenix" tvg-id="phoenix.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/phoenix.png",phoenix
-rtp://@239.35.10.22:10000
+#EXTINF:-1 tvg-name="N24" tvg-id="n24.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/n24.png",N24
+rtp://@239.35.20.46:10000
 #EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/phoenixhd.png",phoenix HD
 rtp://@239.35.10.48:10000
-#EXTINF:-1 tvg-name="RTL Nordrhein-Westfalen" tvg-id="RTL.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rtl.png",RTL Nordrhein-Westfalen
-rtp://@239.35.20.5:10000
-#EXTINF:-1 tvg-name="RTL Bremen / Niedersachsen" tvg-id="RTL.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rtl.png",RTL Bremen / Niedersachsen
-rtp://@239.35.20.6:10000
+#EXTINF:-1 tvg-name="phoenix" tvg-id="phoenix.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/phoenix.png",phoenix
+rtp://@239.35.10.22:10000
 #EXTINF:-1 tvg-name="RTL Hamburg / Schleswig-Holstein" tvg-id="RTL.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rtl.png",RTL Hamburg / Schleswig-Holstein
 rtp://@239.35.20.63:10000
 #EXTINF:-1 tvg-name="RTL Hessen" tvg-id="RTL.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rtl.png",RTL Hessen
 rtp://@239.35.20.64:10000
+#EXTINF:-1 tvg-name="RTL Niedersachsen / Bremen" tvg-id="RTL.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rtl.png",RTL Niedersachsen / Bremen
+rtp://@239.35.20.6:10000
+#EXTINF:-1 tvg-name="RTL Nordrhein-Westfalen" tvg-id="RTL.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rtl.png",RTL Nordrhein-Westfalen
+rtp://@239.35.20.5:10000
 #EXTINF:-1 tvg-name="SAT.1 Bayern" tvg-id="Sat1.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/sat1.png",SAT.1 Bayern
 rtp://@239.35.20.8:10000
 #EXTINF:-1 tvg-name="SAT.1 Hamburg / Schleswig-Holstein" tvg-id="Sat1.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/sat1.png",SAT.1 Hamburg / Schleswig-Holstein
@@ -91,6 +91,8 @@ rtp://@239.35.20.13:10000
 rtp://@239.35.20.14:10000
 #EXTINF:-1 tvg-name="SAT.1 Rheinland-Pfalz / Hessen" tvg-id="Sat1.de" group-title="Vollprogramm;Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/sat1.png",SAT.1 Rheinland-Pfalz / Hessen
 rtp://@239.35.20.15:10000
+#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/wdrhd.png",WDR HD
+rtp://@239.35.10.53:10000
 #EXTINF:-1 tvg-name="WDR" tvg-id="WDR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/wdr.png",WDR
 rtp://@239.35.10.18:10000
 #EXTINF:-1 tvg-name="WDR Aachen" tvg-id="WDR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/wdr.png",WDR Aachen
@@ -113,16 +115,16 @@ rtp://@239.35.10.42:10000
 rtp://@239.35.10.43:10000
 #EXTINF:-1 tvg-name="WDR Wuppertal" tvg-id="WDR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/wdr.png",WDR Wuppertal
 rtp://@239.35.10.44:10000
-#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/wdrhd.png",WDR HD
-rtp://@239.35.10.53:10000
-#EXTINF:-1 tvg-name="SWR Baden-Würrtemberg" tvg-id="SWR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/swr.png",SWR Baden-Würrtemberg
-rtp://@239.35.10.16:10000
-#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz" tvg-id="SWR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/swr.png",SWR Rheinland-Pfalz
-rtp://@239.35.10.17:10000
 #EXTINF:-1 tvg-name="SWR Baden-Würrtemberg HD" tvg-id="SWR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/swr.png",SWR Baden-Würrtemberg HD
 rtp://@239.35.10.51:10000
 #EXTINF:-1 tvg-name="SWR Rheinland-Pfalz HD" tvg-id="SWR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/swr.png",SWR Rheinland-Pfalz HD
 rtp://@239.35.10.52:10000
+#EXTINF:-1 tvg-name="SWR Baden-Würrtemberg" tvg-id="SWR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/swr.png",SWR Baden-Würrtemberg
+rtp://@239.35.10.16:10000
+#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz" tvg-id="SWR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/swr.png",SWR Rheinland-Pfalz
+rtp://@239.35.10.17:10000
+#EXTINF:-1 tvg-name="NDR HD" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/ndrhd.png",NDR HD
+rtp://@239.35.10.50:10000
 #EXTINF:-1 tvg-name="NDR" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/ndr.png",NDR
 rtp://@239.35.10.10:10000
 #EXTINF:-1 tvg-name="NDR Hamburg" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/ndr.png",NDR Hamburg
@@ -131,46 +133,52 @@ rtp://@239.35.10.31:10000
 rtp://@239.35.10.32:10000
 #EXTINF:-1 tvg-name="NDR Schleswig-Holstein" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/ndr.png",NDR Schleswig-Holstein
 rtp://@239.35.10.33:10000
-#EXTINF:-1 tvg-name="NDR HD" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/ndrhd.png",NDR HD
-rtp://@239.35.10.50:10000
+#EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/brhd.png",BR Fernsehen Süd HD
+rtp://@239.35.10.49:10000
 #EXTINF:-1 tvg-name="BR Fernsehen Nord" tvg-id="BR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/br.png",BR Fernsehen Nord
 rtp://@239.35.10.13:10000
 #EXTINF:-1 tvg-name="BR Fernsehen Süd" tvg-id="BR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/br.png",BR Fernsehen Süd
 rtp://@239.35.10.7:10000
-#EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/brhd.png",BR Fernsehen Süd HD
-rtp://@239.35.10.49:10000
+#EXTINF:-1 tvg-name="MDR HD" tvg-id="MDR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdrhd.png",MDR HD
+rtp://@239.35.10.61:10000
 #EXTINF:-1 tvg-name="MDR Sachsen" tvg-id="MDR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdr.png",MDR Sachsen
 rtp://@239.35.10.9:10000
 #EXTINF:-1 tvg-name="MDR Sachsen-Anhalt" tvg-id="MDR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdr.png",MDR Sachsen-Anhalt
 rtp://@239.35.10.29:10000
 #EXTINF:-1 tvg-name="MDR Thüringen" tvg-id="MDR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdr.png",MDR Thüringen
 rtp://@239.35.10.30:10000
-#EXTINF:-1 tvg-name="MDR HD" tvg-id="MDR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdrhd.png",MDR HD
-rtp://@239.35.10.61:10000
-#EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/hr.png",hr-fernsehen
-rtp://@239.35.10.8:10000
 #EXTINF:-1 tvg-name="hr-fernsehen HD" tvg-id="HR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/hrhd.png",hr-fernsehen HD
 rtp://@239.35.10.60:10000
+#EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/hr.png",hr-fernsehen
+rtp://@239.35.10.8:10000
+#EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rbbhd.png",rbb Berlin HD
+rtp://@239.35.10.62:10000
 #EXTINF:-1 tvg-name="rbb Berlin" tvg-id="rbbBerlin.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rbb.png",rbb Berlin
 rtp://@239.35.10.14:10000
 #EXTINF:-1 tvg-name="rbb Brandenburg" tvg-id="rbbBrandenburg.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rbb.png",rbb Brandenburg
 rtp://@239.35.10.34:10000
-#EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rbbhd.png",rbb Berlin HD
-rtp://@239.35.10.62:10000
-#EXTINF:-1 tvg-name="SR Fernsehen" tvg-id="SRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/sr.png",SR Fernsehen
-rtp://@239.35.10.15:10000
 #EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
 rtp://@239.35.10.64:10000
+#EXTINF:-1 tvg-name="SR Fernsehen" tvg-id="SRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/sr.png",SR Fernsehen
+rtp://@239.35.10.15:10000
 #EXTINF:-1 tvg-name="Radio Bremen TV" tvg-id="RadioBremen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/radiobrementv.png",Radio Bremen TV
 rtp://@239.35.10.12:10000
 #EXTINF:-1 tvg-name="Deutsche Welle" tvg-id="DeutscheWelleDE.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle
 rtp://@239.35.20.44:10000
 #EXTINF:-1 tvg-name="a.tv" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/atv.png",a.tv
 rtp://@239.35.50.39:10000
+#EXTINF:-1 tvg-name="Alex Berlin" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/alexberlin.png",Alex Berlin
+rtp://@239.35.50.7:10000
 #EXTINF:-1 tvg-name="allgäu.tv" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/allgaeutv.png",allgäu.tv
 rtp://@239.35.50.53:10000
+#EXTINF:-1 tvg-name="center.tv Düsseldorf" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/centertv.png",center.tv Düsseldorf
+rtp://@239.35.50.7:10000
+#EXTINF:-1 tvg-name="CityVision" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/cityvision.png",CityVision
+rtp://@239.35.50.15:10000
 #EXTINF:-1 tvg-name="Donau TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/donautv.png",Donau TV
 rtp://@239.35.50.23:10000
+#EXTINF:-1 tvg-name="DRF1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/drf1.png",DRF1
+rtp://@239.35.50.15:10000
 #EXTINF:-1 tvg-name="Franken Fernsehen" tvg-id="FrankenTV.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/frankenfernsehen.png",Franken Fernsehen
 rtp://@239.35.50.43:10000
 #EXTINF:-1 tvg-name="intv" tvg-id="intv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/intv.png",intv
@@ -195,12 +203,3 @@ rtp://@239.35.50.56:10000
 rtp://@239.35.50.55:10000
 #EXTINF:-1 tvg-name="TVA Ostbayern" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/tvaostbayern.png",TVA Ostbayern
 rtp://@239.35.50.57:10000
-#EXTINF:-1 tvg-name="center.tv Düsseldorf" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/centertv.png",center.tv Düsseldorf
-rtp://@239.35.50.7:10000
-#EXTINF:-1 tvg-name="DRF1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/drf1.png",DRF1
-rtp://@239.35.50.15:10000
-#EXTINF:-1 tvg-name="Alex Berlin" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/alexberlin.png",Alex Berlin
-rtp://@239.35.50.7:10000
-#EXTINF:-1 tvg-name="CityVision" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/cityvision.png",CityVision
-rtp://@239.35.50.15:10000
-

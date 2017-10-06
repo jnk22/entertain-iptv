@@ -21,7 +21,7 @@ Die Listen sind unterteilt für den jeweiligen Gebrauch/Client. Die Listen "kodi
 <br><br>
 Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Oberliste.
 ```
-[typ].m3u - beinhaltet alle TV- und Radiosender
+[typ].m3u - beinhaltet alle TV-Sender
 
 [typ]_tv.m3u - beinhaltet nur TV-Sender
 

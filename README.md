@@ -17,7 +17,7 @@ Hinweis: Die Listen kodi, clean und pipe sind inhaltlich identisch.
 <br><br>
 Jede der Listen ist unterteilt in eine Struktur, die dem Benutzer ein individuelles Angebot ermöglichen soll. Dabei gilt folgende Struktur:
 ```
-- [typ] - beinhaltet alle TV- und Radiosender
+- [typ] - beinhaltet alle TV-Sender
 
 - - [typ]_tv - beinhaltet nur TV-Sender
 

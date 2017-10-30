@@ -47,13 +47,13 @@ rtp://@239.35.10.49:10000
 rtp://@239.35.10.13:10000
 #EXTINF:-1 tvg-name="BR Fernsehen Süd" tvg-id="BR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/br.png",BR Fernsehen Süd
 rtp://@239.35.10.7:10000
-#EXTINF:-1 tvg-name="MDR HD" tvg-id="MDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdrhd.png",MDR HD
+#EXTINF:-1 tvg-name="MDR HD" tvg-id="MDRSachsen.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdrhd.png",MDR HD
 rtp://@239.35.10.61:10000
-#EXTINF:-1 tvg-name="MDR Sachsen" tvg-id="MDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdr.png",MDR Sachsen
+#EXTINF:-1 tvg-name="MDR Sachsen" tvg-id="MDRSachsen.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdr.png",MDR Sachsen
 rtp://@239.35.10.9:10000
-#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt" tvg-id="MDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdr.png",MDR Sachsen-Anhalt
+#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt" tvg-id="MDRS-Anhalt.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdr.png",MDR Sachsen-Anhalt
 rtp://@239.35.10.29:10000
-#EXTINF:-1 tvg-name="MDR Thüringen" tvg-id="MDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdr.png",MDR Thüringen
+#EXTINF:-1 tvg-name="MDR Thüringen" tvg-id="MDRThuringen.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdr.png",MDR Thüringen
 rtp://@239.35.10.30:10000
 #EXTINF:-1 tvg-name="hr-fernsehen HD" tvg-id="HR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/hrhd.png",hr-fernsehen HD
 rtp://@239.35.10.60:10000

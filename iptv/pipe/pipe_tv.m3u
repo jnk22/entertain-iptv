@@ -139,13 +139,13 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.49:10000 -vcodec copy
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.13:10000 -vcodec copy -acodec copy -metadata service_name=BR\ Fernsehen\ Nord -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="BR Fernsehen Süd" tvg-id="BR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/br.png",BR Fernsehen Süd
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.7:10000 -vcodec copy -acodec copy -metadata service_name=BR\ Fernsehen\ Sud -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="MDR HD" tvg-id="MDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdrhd.png",MDR HD
+#EXTINF:-1 tvg-name="MDR HD" tvg-id="MDRSachsen.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdrhd.png",MDR HD
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.61:10000 -vcodec copy -acodec copy -metadata service_name=MDR\ HD -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="MDR Sachsen" tvg-id="MDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdr.png",MDR Sachsen
+#EXTINF:-1 tvg-name="MDR Sachsen" tvg-id="MDRSachsen.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdr.png",MDR Sachsen
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.9:10000 -vcodec copy -acodec copy -metadata service_name=MDR\ Sachsen -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt" tvg-id="MDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdr.png",MDR Sachsen-Anhalt
+#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt" tvg-id="MDRS-Anhalt.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdr.png",MDR Sachsen-Anhalt
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.29:10000 -vcodec copy -acodec copy -metadata service_name=MDR\ Sachsen-Anhalt -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="MDR Thüringen" tvg-id="MDR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdr.png",MDR Thüringen
+#EXTINF:-1 tvg-name="MDR Thüringen" tvg-id="MDRThuringen.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdr.png",MDR Thüringen
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.30:10000 -vcodec copy -acodec copy -metadata service_name=MDR\ Thuringen -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="hr-fernsehen HD" tvg-id="HR.de" group-title="Entertain" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/hrhd.png",hr-fernsehen HD
 pipe:///usr/bin/ffmpeg -loglevel fatal -i rtp://@239.35.10.60:10000 -vcodec copy -acodec copy -metadata service_name=hr-fernsehen\ HD -metadata service_provider=Entertain -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1

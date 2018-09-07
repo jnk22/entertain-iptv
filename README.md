@@ -50,7 +50,7 @@ Hinweis: Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Ob
     * http://bit.ly/et-clean-tv-regional
     * http://bit.ly/et-clean-tv-local
 <br><br>
-### pipe - Basisliste mit IPTV-Kanälen (VLC media player)
+### pipe - Basisliste mit IPTV-Kanälen (Tvheadend)
 * http://bit.ly/et-pipe
 
   * http://bit.ly/et-pipe-tv
